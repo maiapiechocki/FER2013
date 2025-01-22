@@ -1,2 +1,2 @@
 # Facial Emotion Recognition (FER) CNN 🐱
-This model uses Convolutional Neural Networks (CNNs) for facial emotion recognition (FER), classifying facial expressions into 7 emotion categories. The model achieves a validation accuracy of 54.61%, and although there is room for improvement, the current setup shows reasonable progress in detecting emotions from facial images.
+This model uses Convolutional Neural Networks for facial emotion recognition, classifying facial expressions into 7 emotion categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral). The model achieves a validation accuracy of 54.61%, and although there is room for improvement, the current model shows reasonable progress in detecting emotions from facial images.
